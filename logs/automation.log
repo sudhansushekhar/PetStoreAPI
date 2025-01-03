@@ -1,0 +1,171 @@
+18:13:55.000 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:13:58.264 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:13:58.277 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:14:00.021 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:14:00.027 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:14:03.296 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:14:03.306 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:14:05.362 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:17:20.610 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:17:24.087 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:17:24.099 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:17:25.871 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:17:25.877 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:17:29.139 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:17:29.143 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:17:30.677 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:23:20.853 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:23:23.671 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:23:23.689 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:23:25.096 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:23:25.101 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:23:27.742 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:23:27.749 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:23:29.226 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:24:59.762 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:25:03.063 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:25:03.077 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:25:04.649 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:25:04.654 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:25:07.879 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:25:07.884 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:25:09.527 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:30:18.004 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:30:18.008 [main] DEBUG api.tests.UserTests - Debug message
+18:30:21.124 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:30:21.135 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:30:23.098 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:30:23.107 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:30:26.676 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:30:26.683 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:30:28.420 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:41:07.365 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:41:07.367 [main] DEBUG api.tests.UserTests - Debug message
+18:41:10.748 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:41:10.760 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:41:12.427 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:41:12.431 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:41:16.051 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:41:16.056 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:41:17.646 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:55:18.951 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+18:55:19.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml
+
+18:55:19.457 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:55:19.457 [main] DEBUG api.tests.UserTests - Debug message
+18:55:22.501 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:55:22.512 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:55:24.101 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:55:24.110 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:55:27.171 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:55:27.179 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:55:28.604 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:56:48.292 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+18:56:48.453 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml
+
+18:56:48.788 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:56:51.621 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:56:51.635 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:56:53.192 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:56:53.199 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:56:56.362 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:56:56.371 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:56:57.877 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+18:59:17.193 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+18:59:17.346 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml
+
+18:59:17.677 [main] INFO  api.tests.UserTests - ****** Creating User *********
+18:59:20.928 [main] INFO  api.tests.UserTests - ****** User Created *********
+18:59:20.939 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+18:59:22.698 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+18:59:22.704 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+18:59:26.381 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+18:59:26.387 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+18:59:27.956 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+19:05:04.886 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+19:05:05.059 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml
+
+19:05:05.383 [main] DEBUG api.tests.UserTests - ****** Creating User *********
+19:05:08.213 [main] INFO  api.tests.UserTests - ****** User Created *********
+19:05:08.225 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+19:05:09.716 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+19:05:09.720 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+19:05:12.628 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+19:05:12.632 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+19:05:14.012 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+19:05:39.770 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+19:05:39.914 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml
+
+19:05:40.218 [main] DEBUG api.tests.UserTests - ****** Creating User *********
+19:05:42.849 [main] INFO  api.tests.UserTests - ****** User Created *********
+19:05:42.858 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+19:05:44.263 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+19:05:44.267 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+19:05:47.250 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+19:05:47.254 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+19:05:48.685 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+20:23:25.507 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+20:25:04.838 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+20:26:02.907 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+20:26:41.212 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml"
+20:26:41.389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\EclipseWorkspaceNew\PetStoreAPI\testng.xml
+
+20:26:41.695 [main] DEBUG api.tests.UserTests2 - ****** Creating User *********
+20:26:44.434 [main] INFO  api.tests.UserTests2 - ****** User Created *********
+20:26:44.445 [main] INFO  api.tests.UserTests2 - ****** Getting User Info *********
+20:26:45.808 [main] INFO  api.tests.UserTests2 - ****** User Info Displayed *********
+20:26:45.811 [main] INFO  api.tests.UserTests2 - ****** Updating User Info *********
+20:26:48.385 [main] INFO  api.tests.UserTests2 - ****** User Info Updated *********
+20:26:48.389 [main] INFO  api.tests.UserTests2 - ****** Deleting User *********
+20:26:49.686 [main] INFO  api.tests.UserTests2 - ****** User Deleted *********
+13:02:31.617 [main] DEBUG api.tests.UserTests - ****** Creating User *********
+13:02:34.795 [main] INFO  api.tests.UserTests - ****** User Created *********
+13:02:34.797 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+13:02:36.362 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+13:02:36.364 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+13:02:39.431 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+13:02:39.435 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+13:02:41.171 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+13:04:01.894 [main] DEBUG api.tests.UserTests2 - ****** Creating User *********
+13:04:05.105 [main] INFO  api.tests.UserTests2 - ****** User Created *********
+13:04:05.119 [main] INFO  api.tests.UserTests2 - ****** Getting User Info *********
+13:04:06.785 [main] INFO  api.tests.UserTests2 - ****** User Info Displayed *********
+13:04:06.789 [main] INFO  api.tests.UserTests2 - ****** Updating User Info *********
+13:04:10.158 [main] INFO  api.tests.UserTests2 - ****** User Info Updated *********
+13:04:10.165 [main] INFO  api.tests.UserTests2 - ****** Deleting User *********
+13:04:11.899 [main] INFO  api.tests.UserTests2 - ****** User Deleted *********
+13:04:24.677 [main] DEBUG api.tests.UserTests - ****** Creating User *********
+13:04:28.034 [main] INFO  api.tests.UserTests - ****** User Created *********
+13:04:28.037 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+13:04:31.052 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+13:04:31.057 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+13:04:34.833 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+13:04:34.837 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+13:04:36.472 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+13:05:13.922 [main] INFO  api.tests.UserTests - ****** User Created *********
+13:05:13.926 [main] INFO  api.tests.UserTests - ****** Getting User Info *********
+13:05:15.799 [main] INFO  api.tests.UserTests - ****** User Info Displayed *********
+13:05:15.803 [main] INFO  api.tests.UserTests - ****** Updating User Info *********
+13:05:19.381 [main] INFO  api.tests.UserTests - ****** User Info Updated *********
+13:05:19.384 [main] INFO  api.tests.UserTests - ****** Deleting User *********
+13:05:21.122 [main] INFO  api.tests.UserTests - ****** User Deleted *********
+13:09:15.847 [main] INFO  api.tests.UserTests2 - ****** User Created *********
+13:09:15.857 [main] INFO  api.tests.UserTests2 - ****** Getting User Info *********
+13:09:17.061 [main] INFO  api.tests.UserTests2 - ****** User Info Displayed *********
+13:09:17.063 [main] INFO  api.tests.UserTests2 - ****** Updating User Info *********
+13:09:21.570 [main] INFO  api.tests.UserTests2 - ****** User Info Updated *********
+13:09:21.577 [main] INFO  api.tests.UserTests2 - ****** Deleting User *********
+13:09:23.336 [main] INFO  api.tests.UserTests2 - ****** User Deleted *********
+15:26:39.396 [main] INFO  api.tests.UserTests2 - ****** User Created *********
+15:26:39.404 [main] INFO  api.tests.UserTests2 - ****** Getting User Info *********
+15:26:40.658 [main] INFO  api.tests.UserTests2 - ****** User Info Displayed *********
+15:26:40.662 [main] INFO  api.tests.UserTests2 - ****** Updating User Info *********
+15:26:43.097 [main] INFO  api.tests.UserTests2 - ****** User Info Updated *********
+15:26:43.100 [main] INFO  api.tests.UserTests2 - ****** Deleting User *********
+15:26:44.378 [main] INFO  api.tests.UserTests2 - ****** User Deleted *********
