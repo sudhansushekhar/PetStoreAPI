@@ -41,4 +41,7 @@ public class DDTests {
 		Response response = UserEndPoints.deleteUser(userName );		
 		Assert.assertEquals(response.getStatusCode(), 200);
 	}
+	
+	
+	
 }
